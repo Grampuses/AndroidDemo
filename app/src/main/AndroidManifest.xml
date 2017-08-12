@@ -16,6 +16,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".activities.BaseActivity" />
+        <activity
+            android:name=".activities.BaseActivityTest"
+            android:label="@string/base_activity_test_title" />
     </application>
 
 </manifest>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- CustomGuiActivity -->
+    <string name="base_activity_test_title">Test BaseActivity</string>
+    <string name="base_activity_test_btn">Button</string>
+</resources>
